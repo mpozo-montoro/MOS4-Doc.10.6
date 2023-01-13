@@ -1,4 +1,4 @@
-# Supplementary Information Files for the document: Nominal Landings of Sharks MOU Annex 1-Listed Species Reported to FAO Between 2015-2019. An Opportunity to Inform Regional Priorities for the Sharks MOU and Improve Data Reporting.
+# Supplementary Information Files for the document: Improving reporting of landings data for species listed in Annex 1 of the Sharks MOU.
 
 ## Files within this Drive:
 
